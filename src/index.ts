@@ -1,12 +1,2 @@
-const 関数名1 = (): void => {
-  console.log('ENCODE')
-  console.log('ENCODE')
-  console.log('ENCODE')
-  console.log('ENCODE')
-  console.log('ENCODE')
-  console.log('ENCODE')
-  console.log('ENCODE')
-  console.log('ENCODE')
-  console.log('ENCODE')
-}
+const 関数名1 = (): void => {}
 関数名1()
