@@ -10,5 +10,5 @@ function 盲目の読みがモウモクになるか () {
 }
 
 function 清水寺の読みがキヨミズデラになるか () {
-    expect(findWords('清水寺')).toBe('セイスイジ')
-  }
+  expect(findWords('清水寺')).toBe('セイスイジ')
+}
